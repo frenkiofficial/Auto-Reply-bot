@@ -1,0 +1,9 @@
+{
+    "hello": "Hello there! How can I assist you today?",
+    "how are you": "I'm just a bot, but I'm functioning well! Thanks for asking.",
+    "price": "For the latest pricing information, please visit our website at [Your Website Link Here].",
+    "help": "I'm an auto-reply bot. If your message contains a configured keyword, I'll reply automatically. Type /start for initial info.",
+    "thank you": "You're welcome!",
+    "support": "If you need technical support, please contact support@example.com or call us.",
+    "product info": "We offer Product X and Product Y. You can find details in our online catalog."
+  }
